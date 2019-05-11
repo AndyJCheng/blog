@@ -1,7 +1,12 @@
 ---
 title: Devops
+layout: post
+date: 2019-05-10 21:05:14
+tags: [Devops]
+categories: [Devops]
+comments: true
+description: 
 ---
-
 ## Devops起源
 
 
