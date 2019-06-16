@@ -6,6 +6,8 @@ tags: [Devops]
 categories: [Devops]
 comments: true
 description: 
+photos: 
+  - photos/devops.jpg
 ---
 ## Devops起源
 
